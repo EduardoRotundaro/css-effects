@@ -17,6 +17,12 @@ Just some templates using effects and animations of CSS3.
 
 
 
+[Image blur](https://github.com/EduardoRotundaro/css-effects/tree/master/src/image-blur)
+
+![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/image_blur.png)
+
+
+
 [Snake icons](https://github.com/EduardoRotundaro/css-effects/tree/master/src/snake)
 
 ![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/snake.png)
