@@ -5,9 +5,9 @@ Just some templates using effects and animations of CSS3.
 
 ## Content
 
-[Nav-bar 1](https://github.com/EduardoRotundaro/css-effects/tree/master/src/navigation-bar-1)
+[Checkbox flip](https://github.com/EduardoRotundaro/css-effects/tree/master/src/checkbox-flip)
 
-![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/nav_bar_1.png)
+![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/checkbox_flip.png)
 
 
 
@@ -32,3 +32,9 @@ Just some templates using effects and animations of CSS3.
 [Snake icons](https://github.com/EduardoRotundaro/css-effects/tree/master/src/snake)
 
 ![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/snake.png)
+
+
+
+[Nav-bar 1](https://github.com/EduardoRotundaro/css-effects/tree/master/src/navigation-bar-1)
+
+![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/nav_bar_1.png)
