@@ -5,6 +5,12 @@ Just some templates using effects and animations of CSS3.
 
 ## Content
 
+[Nav-bar 1](https://github.com/EduardoRotundaro/css-effects/tree/master/src/navigation-bar-1)
+
+![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/nav_bar_1.png)
+
+
+
 [Checkbox list](https://github.com/EduardoRotundaro/css-effects/tree/master/src/checkbox-list)
 
 ![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/checkbox_list.png)
