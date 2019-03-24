@@ -10,6 +10,13 @@ Just some templates using effects and animations of CSS3.
 ![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/checkbox_list.png)
 
 
+
+[Checkbox switch](https://github.com/EduardoRotundaro/css-effects/tree/master/src/checkbox-switch)
+
+![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/checkbox_switch.png)
+
+
+
 [Snake icons](https://github.com/EduardoRotundaro/css-effects/tree/master/src/snake)
 
 ![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/snake.png)
