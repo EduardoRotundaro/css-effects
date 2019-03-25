@@ -29,6 +29,12 @@ Just some templates using effects and animations of CSS3.
 
 ---
 
+[Loader ring](https://github.com/EduardoRotundaro/css-effects/tree/master/src/loader-ring)
+
+![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/loader_ring.png)
+
+---
+
 [Snake icons](https://github.com/EduardoRotundaro/css-effects/tree/master/src/snake)
 
 ![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/snake.png)
