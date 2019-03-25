@@ -44,3 +44,9 @@ Just some templates using effects and animations of CSS3.
 [Nav-bar 1](https://github.com/EduardoRotundaro/css-effects/tree/master/src/navigation-bar-1)
 
 ![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/nav_bar_1.png)
+
+---
+
+[Nav-bar responsive](https://github.com/EduardoRotundaro/css-effects/tree/master/src/navigation-bar-responsive)
+
+![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/nav_bar_responsive.png)
