@@ -29,6 +29,12 @@ Just some templates using effects and animations of CSS3.
 
 ---
 
+[Layered icon](https://github.com/EduardoRotundaro/css-effects/tree/master/src/layered-icon)
+
+![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/layered_icon.png)
+
+---
+
 [Loader ring](https://github.com/EduardoRotundaro/css-effects/tree/master/src/loader-ring)
 
 ![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/loader_ring.png)
