@@ -41,6 +41,12 @@ Just some templates using effects and animations of CSS3.
 
 ---
 
+[Search box](https://github.com/EduardoRotundaro/css-effects/tree/master/src/search-box)
+
+![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/search_box.png)
+
+---
+
 [Snake icons](https://github.com/EduardoRotundaro/css-effects/tree/master/src/snake)
 
 ![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/snake.png)
