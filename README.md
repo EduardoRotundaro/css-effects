@@ -23,6 +23,12 @@ Just some templates using effects and animations of CSS3.
 
 ---
 
+[Content box](https://github.com/EduardoRotundaro/css-effects/tree/master/src/content-box)
+
+![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/content_box.png)
+
+---
+
 [Image blur](https://github.com/EduardoRotundaro/css-effects/tree/master/src/image-blur)
 
 ![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/image_blur.png)
