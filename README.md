@@ -47,6 +47,12 @@ Just some templates using effects and animations of CSS3.
 
 ---
 
+[Next-Prev buttons](https://github.com/EduardoRotundaro/css-effects/tree/master/src/next-prev-button)
+
+![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/nxt_prev_buttons.png)
+
+---
+
 [Search box](https://github.com/EduardoRotundaro/css-effects/tree/master/src/search-box)
 
 ![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/search_box.png)
