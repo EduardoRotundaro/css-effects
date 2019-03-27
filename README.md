@@ -59,6 +59,12 @@ Just some templates using effects and animations of CSS3.
 
 ---
 
+[Page loader](https://github.com/EduardoRotundaro/css-effects/tree/master/src/page-loader)
+
+![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/page_loader.png)
+
+---
+
 [Search box](https://github.com/EduardoRotundaro/css-effects/tree/master/src/search-box)
 
 ![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/search_box.png)
