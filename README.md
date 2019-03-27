@@ -5,6 +5,12 @@ Just some templates using effects and animations of CSS3.
 
 ### Content
 
+[Animated menu](https://github.com/EduardoRotundaro/css-effects/tree/master/src/animated-menu)
+
+![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/animated_menu.png)
+
+---
+
 [Checkbox flip](https://github.com/EduardoRotundaro/css-effects/tree/master/src/checkbox-flip)
 
 ![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/checkbox_flip.png)
