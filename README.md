@@ -53,6 +53,12 @@ Just some templates using effects and animations of CSS3.
 
 ---
 
+[Login transparent](https://github.com/EduardoRotundaro/css-effects/tree/master/src/login-transparent)
+
+![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/login_transparent.png)
+
+---
+
 [Next-Prev buttons](https://github.com/EduardoRotundaro/css-effects/tree/master/src/next-prev-button)
 
 ![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/nxt_prev_buttons.png)
