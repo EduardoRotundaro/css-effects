@@ -35,6 +35,12 @@ Just some templates using effects and animations of CSS3.
 
 ---
 
+[Glowing checkbox](https://github.com/EduardoRotundaro/css-effects/tree/master/src/glowing-checkbox)
+
+![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/glowing_checkbox.png)
+
+---
+
 [Image blur](https://github.com/EduardoRotundaro/css-effects/tree/master/src/image-blur)
 
 ![](https://github.com/EduardoRotundaro/css-effects/blob/master/docs/images/image_blur.png)
